@@ -1,0 +1,20 @@
+{
+  "name": "bystryi01", 
+  "version": "1.0.0", 
+  "description": "good project", 
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Bystryi07/Bystryi01.git" 
+  },
+  "keywords": [ 
+    "", 
+    "",
+    ""
+  ],
+  "author": "Bystryi01", 
+  "license": "MIT"
+}
